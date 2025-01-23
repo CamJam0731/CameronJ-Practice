@@ -1,5 +1,5 @@
 #include <iostream>
 
-ing main(){
+int main(){
     
 }
